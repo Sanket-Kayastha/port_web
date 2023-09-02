@@ -148,7 +148,7 @@ marquee {
   display: inline-block;
   margin: 30px 0;
   border-radius: 5px;
-  width: 30%;
+  width: 42%;
 }
 .certificate:hover {
   color: red;
